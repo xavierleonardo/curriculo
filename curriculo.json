@@ -1,0 +1,149 @@
+{
+    "pessoal": {
+        "nome": "Leonardo Gonzaga Xavier",
+        "nacionalidade": "Brasileiro",
+        "relacionamento": "Solteiro",
+        "idade": 30,
+        "endereço": "Vila Bezerra de Menezes, 128 - Morin",
+        "cidade": "Petrópolis",
+        "estado": "Rio de Janeiro",
+        "telefone": "(24) 99218-7686 / (24) 98122-8314",
+        "email": "gxavier.leonardo@gmail.com",
+        "linkedin": "http://br.linkedin.com/in/leonardogonzagaxavier",
+        "github": "https://github.com/xavierleonardo",
+        "codepen": "https://codepen.io/collection/nmWyWV/",
+        "freeCodeCamp": "https://www.freecodecamp.org/xavierleonardo"
+    },
+    "habilidades": {
+        "titulo": "Software Engineer Jr",
+        "backend": {
+            "php": {
+                "patterns": [
+                    "SOLID",
+                    "TDD"
+                ],
+                "bd": "MySQL"
+            },
+            "nodeJs": {
+                "frameworks": "express",
+                "middlewares": [
+                    "consign", 
+                    "body-parser"
+                ],
+                "view-engine": "EJS",
+                "websocket": "socket.io",
+                "patterns": [
+                    "MVC"
+                ],
+                "bd": [
+                    "MySQL",
+                    "MongoDB"
+                ]
+            },
+            "c#": {
+                "frameworks": {
+                    "bd": "EntityFramework",
+                    "web": "ASP.NET"
+                },
+                "patterns": [
+                    "SOLID",
+                    "TDD",
+                    "MVC"
+                ],
+                "bd": "SQL Server"
+            },
+            "java": {
+                "frameworks": {
+                    "web": "servlets"
+                }
+            },      
+            "python": "Básico"
+        },
+        "frontend": {
+            "es6": {
+                "frameworks": [
+                    "jQuery"
+                ]
+            },
+            "html": {
+                "versao": "HTML5"
+            },
+            "CSS": {
+                "versao": "CSS3",
+                "framework": "Bootstrap"
+            }
+        },
+        "outros": [
+            "git", "SEO", "Marketing Digital"
+        ]
+    },
+    "formacao": {
+        "interrompido": [
+            "Tecnologia da Informação e da Comunicação",
+            "Engenharia de Produção"
+        ],
+        "cursando": [
+            "Administração"
+        ]
+    },
+    "idiomas": {
+        "portugues": "Nativo",
+        "ingles": "Intermediário",
+        "espanhol": "Intermediário",
+        "frances": "Básico",
+        "alemao": "Básico"
+    },
+    "experiencia": {
+        "atual": {
+            "nome": "EXL | Soluções Empresariais",
+            "cargo": "Freelancer",
+            "atividades": "Desenvolvimento de sistemas em Excel e Web"
+        },
+        "ultima": {
+            "nome": "Space Inbound Marketing",
+            "cargo": "Analista de Mídia Online",
+            "atividades": "Desenvolvimento de sistemas internos, blogs, lojas, landing pages, funis de e-mail, monitoramento e report"
+        },
+        "penultima": {
+            "nome": "LUZ | Planilhas Empresariais e falaclara",
+            "cargo": "Desenvolvedor Excel",
+            "atividades": "Planejamento, criação, desenvolvimento e configuração de sistemas empresariais em Excel"
+        },
+        "antepenultima": {
+            "nome": "BRA Advisory",
+            "cargo": "Assistente de Diretoria",
+            "atividades": "Gestão e desenvolvimento de sistemas"
+        }
+    },
+    "cursos": {
+        "udemy": [
+            "Curso completo do Desenvolvedor NodeJS e MongoDB",
+            "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
+        ],
+        "freeCodeCamp": [
+            "Responsive Web Design"
+        ],
+        "alura": [
+            "Desenvolvedor .NET Erudito",
+            "Desenvolvedor Java",
+            "SEO Expert",
+            "Desenvolvedor PHP Erudito",
+            "Desenvolvedor WordPress"
+        ],
+        "cursoEmVideo": [
+            "Fundamentos de Python",
+            "MySQL",
+            "HTML5"
+        ],
+        "soloLearn": [
+            "CSS Fundamentals Course",
+            "JavaScript Tutorial Course"
+        ],
+        "capesMec": [
+            "Língua Inglesa"
+        ],
+        "aIEsad": [
+            "Fundamentos de Gestão de Projetos"
+        ]
+    }
+}
