@@ -10,18 +10,15 @@ gxavier.leonardo@gmail.com
 [https://www.freecodecamp.org/xavierleonardo](https://www.freecodecamp.org/xavierleonardo)
 
 ---
-## Software Engineer Jr 
+## Desenvolvedor Web 
 
 **BackEnd:**
-* Python – básico
 * NodeJS – Intermediário
     - Express
-    - Nodemon
-    - Consign
-    - Body Parser
     - Websocket (socket.io)
 * PHP
 * .NET
+    - ASP
     - EntityFramework
 * Java
     - Servlets
@@ -29,10 +26,8 @@ gxavier.leonardo@gmail.com
  
 **FrontEnd:**
 * ES6
-* EJS
-* jQuery
-* ReacJS – Muito interessado em aprender
-* React Native – Muito interessado em aprender
+    - jQuery
+* Angular
 * HTML5/CSS3
 * Bootstrap 
  
@@ -40,9 +35,13 @@ gxavier.leonardo@gmail.com
 * MySQL
 * SQL Server
 * MongoDB 
+
+**Linguagens de Aplicações:**
+* VBA
+* TypeScript
  
 **Outros:**
-* MVC, TDD, SOLID – Básico
+* MVC, TDD, SOLID
 * Git
 * SEO e Marketing Digital 
 
@@ -89,7 +88,7 @@ gxavier.leonardo@gmail.com
  
  
 ## Cursos extracurriculares
-* Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy – Em curso
+* Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy – 2018
 * Responsive Web Design – freeCodeCamp.org - 2018
 * Desenvolvedor .NET Erudito – Altura - 2017
 * Desenvolvedor Java – Alura - 2017

@@ -15,49 +15,25 @@
         "freeCodeCamp": "https://www.freecodecamp.org/xavierleonardo"
     },
     "habilidades": {
-        "titulo": "Software Engineer Jr",
+        "titulo": "Desenvolvedor Web",
         "backend": {
-            "php": {
-                "patterns": [
-                    "SOLID",
-                    "TDD"
-                ],
-                "bd": "MySQL"
-            },
+            "php": {},
             "nodeJs": {
                 "frameworks": "express",
                 "middlewares": [
-                    "consign", 
+                    "consign",
                     "body-parser"
                 ],
                 "view-engine": "EJS",
-                "websocket": "socket.io",
-                "patterns": [
-                    "MVC"
-                ],
-                "bd": [
-                    "MySQL",
-                    "MongoDB"
-                ]
+                "websocket": "socket.io"
             },
-            "c#": {
-                "frameworks": {
-                    "bd": "EntityFramework",
-                    "web": "ASP.NET"
-                },
-                "patterns": [
-                    "SOLID",
-                    "TDD",
-                    "MVC"
-                ],
-                "bd": "SQL Server"
+            ".NET": {
+                "frameworks": "EntityFramework",
+                "web": "ASP"
             },
             "java": {
-                "frameworks": {
-                    "web": "servlets"
-                }
-            },      
-            "python": "Básico"
+                "web": "servlets"                
+            }
         },
         "frontend": {
             "es6": {
@@ -65,6 +41,7 @@
                     "jQuery"
                 ]
             },
+            "Angular": {},
             "html": {
                 "versao": "HTML5"
             },
@@ -73,6 +50,15 @@
                 "framework": "Bootstrap"
             }
         },
+        "bd": [
+            "MySQL",
+            "SQL Server",
+            "MongoDB"
+        ],
+        "apps": [
+            "VBA",
+            "TypeScript"
+        ],
         "outros": [
             "git", "SEO", "Marketing Digital"
         ]
@@ -117,6 +103,7 @@
     },
     "cursos": {
         "udemy": [
+            "Curso de Desenvolvimento Web com EC6, TypeScript e Angular",
             "Curso completo do Desenvolvedor NodeJS e MongoDB",
             "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
         ],
