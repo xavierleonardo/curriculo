@@ -88,7 +88,8 @@ gxavier.leonardo@gmail.com
  
  
 ## Cursos extracurriculares
-* Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy – 2018
+* Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
+* JavaScript Algorithms and Data Structures – freeCodeCamp.org - 2018
 * Responsive Web Design – freeCodeCamp.org - 2018
 * Desenvolvedor .NET Erudito – Altura - 2017
 * Desenvolvedor Java – Alura - 2017
@@ -96,9 +97,6 @@ gxavier.leonardo@gmail.com
 * Desenvolvedor PHP Erudito – Alura – 2017
 * Desenvolvedor WordPress – Alura – 2017
 * MySQL – Curso em Vídeo - 2017
-* HTML5 – Curso em Vídeo – 2017
 * Fundamentos de Python -  Curso em Vídeo – 2017
-* JavaScript Tutorial Course – SoloLearn - 2016
-* CSS Fundamentals Course – SoloLearn - 2016
 * Língua inglesa – My English Online CAPES/MEC – Cursando preparatório TOEFL
 * Fundamentos de Gestão de Projetos – AiESAD – 2014

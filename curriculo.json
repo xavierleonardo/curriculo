@@ -108,7 +108,8 @@
             "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
         ],
         "freeCodeCamp": [
-            "Responsive Web Design"
+            "Responsive Web Design",
+            "JavaScript Algorithms and Data Structures"
         ],
         "alura": [
             "Desenvolvedor .NET Erudito",
@@ -119,12 +120,7 @@
         ],
         "cursoEmVideo": [
             "Fundamentos de Python",
-            "MySQL",
-            "HTML5"
-        ],
-        "soloLearn": [
-            "CSS Fundamentals Course",
-            "JavaScript Tutorial Course"
+            "MySQL"
         ],
         "capesMec": [
             "Língua Inglesa"
