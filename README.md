@@ -27,9 +27,11 @@ gxavier.leonardo@gmail.com
 **FrontEnd:**
 * ES6
     - jQuery
-* Angular
+    - Angular
+    - React
 * HTML5/CSS3
-* Bootstrap 
+    - Bootstrap
+    - Sass 
  
 **Banco de Dados:**
 * MySQL

@@ -47,6 +47,7 @@
             },
             "CSS": {
                 "versao": "CSS3",
+                "pre-processadores": ["Sass"],
                 "framework": "Bootstrap"
             }
         },
