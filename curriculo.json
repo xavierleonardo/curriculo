@@ -32,9 +32,6 @@
                 "desktop": ".NET",
                 "web": "ASP"
             },
-            "java": {
-                "web": "servlets"                
-            },
             "API": "RESTful"
         },
         "frontend": {
@@ -43,7 +40,7 @@
                     "jQuery"
                 ]
             },
-            "React": {},
+            "React.js": {},
             "Angular": {},
             "html": {
                 "versao": "HTML5"
@@ -70,10 +67,10 @@
     },
     "formacao": {
         "interrompido": [
-            "Tecnologia da Informação e da Comunicação",
             "Engenharia de Produção"
         ],
         "cursando": [
+            "Tecnologia da Informação e da Comunicação",
             "Administração"
         ]
     },
@@ -113,6 +110,7 @@
             "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
         ],
         "freeCodeCamp": [
+            "Front End Libraries",
             "Responsive Web Design",
             "JavaScript Algorithms and Data Structures"
         ],

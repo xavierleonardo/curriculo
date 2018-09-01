@@ -5,10 +5,10 @@ Brasileiro, solteiro, 30 anos
 Vila Bezerra de Menezes, 128 - Morin
 (24) 99218-7686 / (24) 98122-8314
 gxavier.leonardo@gmail.com
-[http://br.linkedin.com/in/leonardogonzagaxavier](http://br.linkedin.com/in/leonardogonzagaxavier)
-[https://github.com/xavierleonardo](https://github.com/xavierleonardo)
-[https://codepen.io/collection/nmWyWV/](https://codepen.io/collection/nmWyWV/)
-[https://www.freecodecamp.org/xavierleonardo](https://www.freecodecamp.org/xavierleonardo)
+[LinkedIn](http://br.linkedin.com/in/leonardogonzagaxavier)
+[GitHub](https://github.com/xavierleonardo)
+[CodePen](https://codepen.io/collection/nmWyWV/)
+[freeCodeCamp](https://www.freecodecamp.org/xavierleonardo)
 
 ---
 
@@ -16,7 +16,7 @@ gxavier.leonardo@gmail.com
 
 **BackEnd:**
 
-* NodeJS – Intermediário
+* Node.js – Intermediário
   * Express
   * Websocket (socket.io)
 * PHP
@@ -24,8 +24,6 @@ gxavier.leonardo@gmail.com
   * .NET
   * ASP
   * EntityFramework
-* Java
-  * Servlets
 * Programação Orientada à Obejtos
 * RESTful
 
@@ -34,7 +32,7 @@ gxavier.leonardo@gmail.com
 * ES6
   * jQuery
   * Angular
-  * React
+  * React.js
 * HTML5/CSS3
   * Bootstrap
   * Sass
@@ -53,7 +51,6 @@ gxavier.leonardo@gmail.com
 
 **Outros:**
 
-* MVC, TDD, SOLID
 * Git
 * SEO e Marketing Digital 
 
@@ -71,7 +68,7 @@ gxavier.leonardo@gmail.com
 
 ## Formação Acadêmica
 
-* Interrompido – Tecnologia da Informação e da Comunicação – FAETERJ
+* Cursando – Tecnologia da Informação e da Comunicação – FAETERJ
 * Interrompido – Engenharia de Produção – Universidade Federal Fluminense
 * Sétimo período – Administração – Universidade Federal Rural do Rio de Janeiro 
 
@@ -88,7 +85,7 @@ gxavier.leonardo@gmail.com
 
 ## Experiência Profissional
 
-* 10/2014 – Atual **EXL | Soluções Empresariais**
+* 10/2014 – 01/2017 **EXL | Soluções Empresariais**
 > Desenvolvimento de sistemas de gestão Excel e Web, consultoria administrativa e de marketing digital, sendo ainda contratado como terceirizado na LUZ | Planilhas Empresariais (Desenvolvedor Excel) e BRA Advisory (Assistente de Diretoria).
 
 * 03/2017 – 06/2017 **Space Inbound Marketing**
@@ -105,7 +102,10 @@ gxavier.leonardo@gmail.com
 
 ## Cursos extracurriculares
 
+* Curso de Desenvolvimento WEB com ES6, TypeScript e Angular – Udemy – 2018
 * Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
+* Desenvolvimento Web Completo - Crie 6 Projetos – Udemy – 2018
+* Front End Libraries – freeCodeCamp.org - 2018
 * JavaScript Algorithms and Data Structures – freeCodeCamp.org - 2018
 * Responsive Web Design – freeCodeCamp.org - 2018
 * Desenvolvedor .NET Erudito – Altura - 2017
