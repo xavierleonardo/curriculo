@@ -5,10 +5,10 @@ Brasileiro, solteiro, 30 anos
 Vila Bezerra de Menezes, 128 - Morin
 (24) 99218-7686 / (24) 98122-8314
 gxavier.leonardo@gmail.com
-[LinkedIn](http://br.linkedin.com/in/leonardogonzagaxavier)
-[GitHub](https://github.com/xavierleonardo)
-[CodePen](https://codepen.io/collection/nmWyWV/)
-[freeCodeCamp](https://www.freecodecamp.org/xavierleonardo)
+-[LinkedIn](http://br.linkedin.com/in/leonardogonzagaxavier)
+-[GitHub](https://github.com/xavierleonardo)
+-[CodePen](https://codepen.io/collection/nmWyWV/)
+-[freeCodeCamp](https://www.freecodecamp.org/xavierleonardo)
 
 ---
 
