@@ -36,12 +36,12 @@
         },
         "frontend": {
             "es6": {
-                "frameworks": [
-                    "jQuery"
+                "libraries": [
+                    "jQuery",
+                    "Angular",
+                    "React"
                 ]
             },
-            "React.js": {},
-            "Angular": {},
             "html": {
                 "versao": "HTML5"
             },

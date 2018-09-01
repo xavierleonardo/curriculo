@@ -33,7 +33,7 @@ gxavier.leonardo@gmail.com
 * ES6
   * jQuery
   * Angular
-  * React.js
+  * React
 * HTML5/CSS3
   * Bootstrap
   * Sass
