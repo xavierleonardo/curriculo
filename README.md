@@ -69,7 +69,7 @@ gxavier.leonardo@gmail.com
 
 ## Formação Acadêmica
 
-* Cursando – Tecnologia da Informação e da Comunicação – FAETERJ
+* Segundo período – Tecnologia da Informação e da Comunicação – FAETERJ
 * Interrompido – Engenharia de Produção – Universidade Federal Fluminense
 * Sétimo período – Administração – Universidade Federal Rural do Rio de Janeiro 
 
@@ -103,6 +103,7 @@ gxavier.leonardo@gmail.com
 
 ## Cursos extracurriculares
 
+* Construindo Aplicações Web com o novo Angular (4, 5, 6) – Udemy – 2018
 * Curso de Desenvolvimento WEB com ES6, TypeScript e Angular – Udemy – 2018
 * Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
 * Desenvolvimento Web Completo - Crie 6 Projetos – Udemy – 2018
