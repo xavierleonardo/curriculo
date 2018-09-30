@@ -107,6 +107,7 @@ gxavier.leonardo@gmail.com
 * Curso de Desenvolvimento WEB com ES6, TypeScript e Angular – Udemy – 2018
 * Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
 * Desenvolvimento Web Completo - Crie 6 Projetos – Udemy – 2018
+* Data Visualization – freeCodeCamp.org - 2018
 * Front End Libraries – freeCodeCamp.org - 2018
 * JavaScript Algorithms and Data Structures – freeCodeCamp.org - 2018
 * Responsive Web Design – freeCodeCamp.org - 2018
