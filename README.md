@@ -1,5 +1,7 @@
 # Leonardo Gonzaga Xavier
 
+- Ver currículo em produção: [xavierleonardo.github.io/curriculo](https://xavierleonardo.github.io/curriculo)
+
 ---
 
 Brasileiro, solteiro, 30 anos
