@@ -18,26 +18,16 @@ gxavier.leonardo@gmail.com
 
 **BackEnd:**
 
-- Node.js – Intermediário
-  - Express
-  - Websocket (socket.io)
+- Node.js
 - PHP
 - C#
-  - .NET
-  - ASP
-  - EntityFramework
-- Programação Orientada à Obejtos
-- RESTful
 
 **FrontEnd:**
 
 - ES6
-  - jQuery
-  - Angular
-  - React
+- Reactjs
+- Angular
 - HTML5/CSS3
-  - Bootstrap
-  - Sass
 
 **Banco de Dados:**
 
