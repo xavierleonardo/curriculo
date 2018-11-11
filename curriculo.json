@@ -16,41 +16,18 @@
     },
     "habilidades": {
         "titulo": "Desenvolvedor Web",
-        "backend": {
-            "php": {},
-            "nodeJs": {
-                "frameworks": "express",
-                "middlewares": [
-                    "consign",
-                    "body-parser"
-                ],
-                "view-engine": "EJS",
-                "websocket": "socket.io"
-            },
-            "C#": {
-                "frameworks": "EntityFramework",
-                "desktop": ".NET",
-                "web": "ASP"
-            },
-            "API": "RESTful"
-        },
-        "frontend": {
-            "es6": {
-                "libraries": [
-                    "jQuery",
-                    "Angular",
-                    "React"
-                ]
-            },
-            "html": {
-                "versao": "HTML5"
-            },
-            "CSS": {
-                "versao": "CSS3",
-                "pre-processadores": ["Sass"],
-                "framework": "Bootstrap"
-            }
-        },
+        "backend": [
+            "php",
+            "nodeJs",
+            "C#"
+        ],
+        "frontend": [
+            "es6",
+            "Reactjs",
+            "Angular",
+            "HTML",
+            "CSS"
+        ],
         "bd": [
             "MySQL",
             "SQL Server",

@@ -87,13 +87,13 @@ gxavier.leonardo@gmail.com
 
 ## Experiência Profissional
 
-- 10/2014 – 01/2017 **EXL | Soluções Empresariais**
-
-  > Desenvolvimento de sistemas de gestão Excel e Web, consultoria administrativa e de marketing digital, sendo ainda contratado como terceirizado na LUZ | Planilhas Empresariais (Desenvolvedor Excel) e BRA Advisory (Assistente de Diretoria).
-
 - 03/2017 – 06/2017 **Space Inbound Marketing**
 
   > Criação, implantação, execução e monitoramento de processos, planejamento de marketing de todos os clientes, desenvolvimento de sistemas internos, criação, monitoramento e report de campanhas online e gerência de equipe.
+
+- 10/2014 – 01/2017 **EXL | Soluções Empresariais**
+
+  > Desenvolvimento de sistemas de gestão Excel e Web, consultoria administrativa e de marketing digital, sendo ainda contratado como terceirizado na LUZ | Planilhas Empresariais (Desenvolvedor Excel) e BRA Advisory (Assistente de Diretoria).
 
 - 01/2016 – 10/2016 **LUZ | Planilhas Empresariais**
 
