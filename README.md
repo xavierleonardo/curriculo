@@ -79,6 +79,10 @@ gxavier.leonardo@gmail.com
 
 ## Experiência Profissional
 
+- 11/2018 – atual **Foton**
+
+  > Desenvolvimento de aplicativos móveis.
+
 - 03/2017 – 06/2017 **Space Inbound Marketing**
 
   > Criação, implantação, execução e monitoramento de processos, planejamento de marketing de todos os clientes, desenvolvimento de sistemas internos, criação, monitoramento e report de campanhas online e gerência de equipe.

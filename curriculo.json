@@ -1,115 +1,83 @@
 {
-    "pessoal": {
-        "nome": "Leonardo Gonzaga Xavier",
-        "nacionalidade": "Brasileiro",
-        "relacionamento": "Solteiro",
-        "idade": 30,
-        "endereço": "Vila Bezerra de Menezes, 128 - Morin",
-        "cidade": "Petrópolis",
-        "estado": "Rio de Janeiro",
-        "telefone": "(24) 99218-7686 / (24) 98122-8314",
-        "email": "gxavier.leonardo@gmail.com",
-        "linkedin": "http://br.linkedin.com/in/leonardogonzagaxavier",
-        "github": "https://github.com/xavierleonardo",
-        "codepen": "https://codepen.io/collection/nmWyWV/",
-        "freeCodeCamp": "https://www.freecodecamp.org/xavierleonardo"
+  "pessoal": {
+    "nome": "Leonardo Gonzaga Xavier",
+    "nacionalidade": "Brasileiro",
+    "relacionamento": "Solteiro",
+    "idade": 30,
+    "endereço": "Vila Bezerra de Menezes, 128 - Morin",
+    "cidade": "Petrópolis",
+    "estado": "Rio de Janeiro",
+    "telefone": "(24) 99218-7686 / (24) 98122-8314",
+    "email": "gxavier.leonardo@gmail.com",
+    "linkedin": "http://br.linkedin.com/in/leonardogonzagaxavier",
+    "github": "https://github.com/xavierleonardo",
+    "codepen": "https://codepen.io/collection/nmWyWV/",
+    "freeCodeCamp": "https://www.freecodecamp.org/xavierleonardo"
+  },
+  "habilidades": {
+    "titulo": "Desenvolvedor Web",
+    "backend": ["nodeJs"],
+    "frontend": ["es6", "Reactjs", "Angular", "HTML", "CSS"],
+    "bd": ["MySQL", "SQL Server", "MongoDB", "Firebase"],
+    "apps": ["VBA", "TypeScript"],
+    "outros": ["git", "SEO", "Marketing Digital"]
+  },
+  "formacao": {
+    "interrompido": ["Engenharia de Produção"],
+    "cursando": ["Tecnologia da Informação e da Comunicação", "Administração"]
+  },
+  "idiomas": {
+    "portugues": "Nativo",
+    "ingles": "Intermediário",
+    "espanhol": "Intermediário",
+    "frances": "Básico",
+    "alemao": "Básico"
+  },
+  "experiencia": {
+    "atual": {
+      "nome": "Foton",
+      "cargo": "Full Stack Developer Trainee",
+      "atividades": "Desenvolvimento de aplicativos móveis"
     },
-    "habilidades": {
-        "titulo": "Desenvolvedor Web",
-        "backend": [
-            "php",
-            "nodeJs",
-            "C#"
-        ],
-        "frontend": [
-            "es6",
-            "Reactjs",
-            "Angular",
-            "HTML",
-            "CSS"
-        ],
-        "bd": [
-            "MySQL",
-            "SQL Server",
-            "MongoDB",
-            "Firebase"
-        ],
-        "apps": [
-            "VBA",
-            "TypeScript"
-        ],
-        "outros": [
-            "git", "SEO", "Marketing Digital"
-        ]
+    "ultima": {
+      "nome": "Space Inbound Marketing",
+      "cargo": "Analista de Mídia Online",
+      "atividades": "Desenvolvimento de sistemas internos, blogs, lojas, landing pages, funis de e-mail, monitoramento e report"
     },
-    "formacao": {
-        "interrompido": [
-            "Engenharia de Produção"
-        ],
-        "cursando": [
-            "Tecnologia da Informação e da Comunicação",
-            "Administração"
-        ]
+    "penultima": {
+      "nome": "EXL | Soluções Empresariais",
+      "cargo": "Microempreendedor",
+      "atividades": "Desenvolvimento de sistemas em Excel e Web"
     },
-    "idiomas": {
-        "portugues": "Nativo",
-        "ingles": "Intermediário",
-        "espanhol": "Intermediário",
-        "frances": "Básico",
-        "alemao": "Básico"
-    },
-    "experiencia": {
-        "atual": {
-            "nome": "EXL | Soluções Empresariais",
-            "cargo": "Freelancer",
-            "atividades": "Desenvolvimento de sistemas em Excel e Web"
-        },
-        "ultima": {
-            "nome": "Space Inbound Marketing",
-            "cargo": "Analista de Mídia Online",
-            "atividades": "Desenvolvimento de sistemas internos, blogs, lojas, landing pages, funis de e-mail, monitoramento e report"
-        },
-        "penultima": {
-            "nome": "LUZ | Planilhas Empresariais e falaclara",
-            "cargo": "Desenvolvedor Excel",
-            "atividades": "Planejamento, criação, desenvolvimento e configuração de sistemas empresariais em Excel"
-        },
-        "antepenultima": {
-            "nome": "BRA Advisory",
-            "cargo": "Assistente de Diretoria",
-            "atividades": "Gestão e desenvolvimento de sistemas"
-        }
-    },
-    "cursos": {
-        "udemy": [
-            "Construindo Aplicações Web com o Novo Angular (4, 5, 6)",
-            "Curso de Desenvolvimento Web com EC6, TypeScript e Angular",
-            "Curso completo do Desenvolvedor NodeJS e MongoDB",
-            "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
-        ],
-        "freeCodeCamp": [
-            "APIs and Microservices",
-            "Data Visualization",
-            "Front End Libraries",
-            "Responsive Web Design",
-            "JavaScript Algorithms and Data Structures"
-        ],
-        "alura": [
-            "Desenvolvedor .NET Erudito",
-            "Desenvolvedor Java",
-            "SEO Expert",
-            "Desenvolvedor PHP Erudito",
-            "Desenvolvedor WordPress"
-        ],
-        "cursoEmVideo": [
-            "Fundamentos de Python",
-            "MySQL"
-        ],
-        "capesMec": [
-            "Língua Inglesa"
-        ],
-        "aIEsad": [
-            "Fundamentos de Gestão de Projetos"
-        ]
+    "antepenultima": {
+      "nome": "LUZ | Planilhas Empresariais e falaclara",
+      "cargo": "Desenvolvedor Excel",
+      "atividades": "Planejamento, criação, desenvolvimento e configuração de sistemas empresariais em Excel"
     }
+  },
+  "cursos": {
+    "udemy": [
+      "Construindo Aplicações Web com o Novo Angular (4, 5, 6)",
+      "Curso de Desenvolvimento Web com EC6, TypeScript e Angular",
+      "Curso completo do Desenvolvedor NodeJS e MongoDB",
+      "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
+    ],
+    "freeCodeCamp": [
+      "APIs and Microservices",
+      "Data Visualization",
+      "Front End Libraries",
+      "Responsive Web Design",
+      "JavaScript Algorithms and Data Structures"
+    ],
+    "alura": [
+      "Desenvolvedor .NET Erudito",
+      "Desenvolvedor Java",
+      "SEO Expert",
+      "Desenvolvedor PHP Erudito",
+      "Desenvolvedor WordPress"
+    ],
+    "cursoEmVideo": ["Fundamentos de Python", "MySQL"],
+    "capesMec": ["Língua Inglesa"],
+    "aIEsad": ["Fundamentos de Gestão de Projetos"]
+  }
 }
