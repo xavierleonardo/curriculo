@@ -104,6 +104,7 @@ gxavier.leonardo@gmail.com
 
 ## Cursos extracurriculares
 
+- MERN Stack Front To Back: Full Stack React, Redux & Node.js – Udemy – 2018
 - Construindo Aplicações Web com o novo Angular (4, 5, 6) – Udemy – 2018
 - Curso de Desenvolvimento WEB com ES6, TypeScript e Angular – Udemy – 2018
 - Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
@@ -118,7 +119,4 @@ gxavier.leonardo@gmail.com
 - SEO Expert – Alura - 2017
 - Desenvolvedor PHP Erudito – Alura – 2017
 - Desenvolvedor WordPress – Alura – 2017
-- MySQL – Curso em Vídeo - 2017
-- Fundamentos de Python - Curso em Vídeo – 2017
 - Língua inglesa – My English Online CAPES/MEC – Cursando preparatório TOEFL
-- Fundamentos de Gestão de Projetos – AiESAD – 2014

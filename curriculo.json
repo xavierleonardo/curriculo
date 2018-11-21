@@ -57,6 +57,7 @@
   },
   "cursos": {
     "udemy": [
+      "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
       "Construindo Aplicações Web com o Novo Angular (4, 5, 6)",
       "Curso de Desenvolvimento Web com EC6, TypeScript e Angular",
       "Curso completo do Desenvolvedor NodeJS e MongoDB",
@@ -76,8 +77,6 @@
       "Desenvolvedor PHP Erudito",
       "Desenvolvedor WordPress"
     ],
-    "cursoEmVideo": ["Fundamentos de Python", "MySQL"],
-    "capesMec": ["Língua Inglesa"],
-    "aIEsad": ["Fundamentos de Gestão de Projetos"]
+    "capesMec": ["Língua Inglesa"]
   }
 }
