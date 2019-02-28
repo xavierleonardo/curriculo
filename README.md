@@ -21,32 +21,24 @@ gxavier.leonardo@gmail.com
 **BackEnd:**
 
 - Node.js
-- PHP
-- C#
 
 **FrontEnd:**
 
-- ES6
+- JavaScript
 - Reactjs
-- Angular
-- HTML5/CSS3
 
 **Banco de Dados:**
 
 - MySQL
 - SQL Server
+- PostgreSQL
 - MongoDB
-- Firebase
-
-**Linguagens de Aplicações:**
-
-- VBA
-- TypeScript
 
 **Outros:**
 
 - Git
-- SEO e Marketing Digital
+- VBA
+- TypeScript
 
 ---
 
@@ -62,9 +54,9 @@ gxavier.leonardo@gmail.com
 
 ## Formação Acadêmica
 
-- Segundo período – Tecnologia da Informação e da Comunicação – FAETERJ
+- Interrompido – Tecnologia da Informação e da Comunicação – FAETERJ
 - Interrompido – Engenharia de Produção – Universidade Federal Fluminense
-- Sétimo período – Administração – Universidade Federal Rural do Rio de Janeiro
+- Interrompido – Administração – Universidade Federal Rural do Rio de Janeiro
 
 ---
 
@@ -79,9 +71,9 @@ gxavier.leonardo@gmail.com
 
 ## Experiência Profissional
 
-- 11/2018 – atual **Foton**
+- 11/2018 – atual **xDevel**
 
-  > Desenvolvimento de aplicativos móveis.
+  > Desenvolvimento front-end de apicações modernas.
 
 - 03/2017 – 06/2017 **Space Inbound Marketing**
 
@@ -104,19 +96,9 @@ gxavier.leonardo@gmail.com
 
 ## Cursos extracurriculares
 
-- MERN Stack Front To Back: Full Stack React, Redux & Node.js – Udemy – 2018
-- Construindo Aplicações Web com o novo Angular (4, 5, 6) – Udemy – 2018
-- Curso de Desenvolvimento WEB com ES6, TypeScript e Angular – Udemy – 2018
-- Curso Completo do Desenvolvedor NodeJS e MongoDB – Udemy - 2018
-- Desenvolvimento Web Completo - Crie 6 Projetos – Udemy – 2018
 - [APIs and Microservices – freeCodeCamp - 2018](https://www.freecodecamp.org/certification/xavierleonardo/apis-and-microservices)
 - [Data Visualization – freeCodeCamp - 2018](https://www.freecodecamp.org/certification/xavierleonardo/data-visualization)
 - [Front End Libraries – freeCodeCamp - 2018](https://www.freecodecamp.org/certification/xavierleonardo/front-end-libraries)
 - [JavaScript Algorithms and Data Structures – freeCodeCamp - 2018](https://www.freecodecamp.org/certification/xavierleonardo/javascript-algorithms-and-data-structures)
 - [Responsive Web Design – freeCodeCamp - 2018](https://www.freecodecamp.org/certification/xavierleonardo/responsive-web-design)
-- Desenvolvedor .NET Erudito – Altura - 2017
-- Desenvolvedor Java – Alura - 2017
-- SEO Expert – Alura - 2017
-- Desenvolvedor PHP Erudito – Alura – 2017
-- Desenvolvedor WordPress – Alura – 2017
 - Língua inglesa – My English Online CAPES/MEC – Cursando preparatório TOEFL

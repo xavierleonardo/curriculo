@@ -15,16 +15,18 @@
     "freeCodeCamp": "https://www.freecodecamp.org/xavierleonardo"
   },
   "habilidades": {
-    "titulo": "Desenvolvedor Web",
+    "titulo": "Software Developer",
     "backend": ["nodeJs"],
-    "frontend": ["es6", "Reactjs", "Angular", "HTML", "CSS"],
-    "bd": ["MySQL", "SQL Server", "MongoDB", "Firebase"],
-    "apps": ["VBA", "TypeScript"],
-    "outros": ["git", "SEO", "Marketing Digital"]
+    "frontend": ["React"],
+    "bd": ["MySQL", "SQL Server", "PostgreSQL", "MongoDB"],
+    "outros": ["git", "VBA", "TypeScript"]
   },
   "formacao": {
-    "interrompido": ["Engenharia de Produção"],
-    "cursando": ["Tecnologia da Informação e da Comunicação", "Administração"]
+    "interrompido": [
+      "Engenharia de Produção",
+      "Tecnologia da Informação e da Comunicação",
+      "Administração"
+    ]
   },
   "idiomas": {
     "portugues": "Nativo",
@@ -35,9 +37,9 @@
   },
   "experiencia": {
     "atual": {
-      "nome": "Foton",
-      "cargo": "Full Stack Developer Trainee",
-      "atividades": "Desenvolvimento de aplicativos móveis"
+      "nome": "xDevel",
+      "cargo": "Front-End Developer",
+      "atividades": "Desenvolvimento front-end de aplicações modernas com React"
     },
     "ultima": {
       "nome": "Space Inbound Marketing",
@@ -56,26 +58,12 @@
     }
   },
   "cursos": {
-    "udemy": [
-      "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
-      "Construindo Aplicações Web com o Novo Angular (4, 5, 6)",
-      "Curso de Desenvolvimento Web com EC6, TypeScript e Angular",
-      "Curso completo do Desenvolvedor NodeJS e MongoDB",
-      "Curso Completo de Desenvolvimento Web - Crie 6 Projetos"
-    ],
     "freeCodeCamp": [
       "APIs and Microservices",
       "Data Visualization",
       "Front End Libraries",
       "Responsive Web Design",
       "JavaScript Algorithms and Data Structures"
-    ],
-    "alura": [
-      "Desenvolvedor .NET Erudito",
-      "Desenvolvedor Java",
-      "SEO Expert",
-      "Desenvolvedor PHP Erudito",
-      "Desenvolvedor WordPress"
     ],
     "capesMec": ["Língua Inglesa"]
   }
