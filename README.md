@@ -4,9 +4,9 @@
 
 ---
 
-Brasileiro, solteiro, 30 anos
-Vila Bezerra de Menezes, 128 - Morin
-(24) 99218-7686 / (24) 98122-8314
+Brasileiro, solteiro, 31 anos
+Servidão Carlos Alberto da Silva Barbosa, S/N - Itaipava
+(24) 99218-7686
 gxavier.leonardo@gmail.com
 
 - [LinkedIn](http://br.linkedin.com/in/leonardogonzagaxavier)
@@ -16,7 +16,7 @@ gxavier.leonardo@gmail.com
 
 ---
 
-## Desenvolvedor Web
+## Desenvolvedor
 
 **BackEnd:**
 
@@ -63,15 +63,16 @@ gxavier.leonardo@gmail.com
 ## Idiomas
 
 - Inglês Intermediário
-- Espanhol Intermediário
-- Francês Básico
-- Alemão Básico
 
 ---
 
 ## Experiência Profissional
 
-- 11/2018 – atual **xDevel**
+- 10/2019 - atual **Vizir**
+
+  > Desenvolvimento de aplicações cliente multiplataforma utilizando a OmniStack
+
+- 01/2019 – 10/2019 **xDevel**
 
   > Desenvolvimento front-end de apicações modernas.
 

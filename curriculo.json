@@ -3,11 +3,11 @@
     "nome": "Leonardo Gonzaga Xavier",
     "nacionalidade": "Brasileiro",
     "relacionamento": "Solteiro",
-    "idade": 30,
-    "endereço": "Vila Bezerra de Menezes, 128 - Morin",
+    "idade": 31,
+    "endereço": "Servidão Carlos Alberto da Silva Barbosa, S/N - Itaipava",
     "cidade": "Petrópolis",
     "estado": "Rio de Janeiro",
-    "telefone": "(24) 99218-7686 / (24) 98122-8314",
+    "telefone": "(24) 99218-7686",
     "email": "gxavier.leonardo@gmail.com",
     "linkedin": "http://br.linkedin.com/in/leonardogonzagaxavier",
     "github": "https://github.com/xavierleonardo",
@@ -30,31 +30,28 @@
   },
   "idiomas": {
     "portugues": "Nativo",
-    "ingles": "Intermediário",
-    "espanhol": "Intermediário",
-    "frances": "Básico",
-    "alemao": "Básico"
+    "ingles": "Intermediário"
   },
   "experiencia": {
     "atual": {
+      "nome": "Vizir",
+      "cargo": "Analista Programador",
+      "atividades": "Desenvolvimento de aplicações cliente multiplataforma utilizando a OmniStack."
+    },
+    "ultima": {
       "nome": "xDevel",
       "cargo": "Front-End Developer",
       "atividades": "Desenvolvimento front-end de aplicações modernas com React"
     },
-    "ultima": {
+    "penultima": {
       "nome": "Space Inbound Marketing",
       "cargo": "Analista de Mídia Online",
       "atividades": "Desenvolvimento de sistemas internos, blogs, lojas, landing pages, funis de e-mail, monitoramento e report"
     },
-    "penultima": {
+    "antepenultima": {
       "nome": "EXL | Soluções Empresariais",
       "cargo": "Microempreendedor",
       "atividades": "Desenvolvimento de sistemas em Excel e Web"
-    },
-    "antepenultima": {
-      "nome": "LUZ | Planilhas Empresariais e falaclara",
-      "cargo": "Desenvolvedor Excel",
-      "atividades": "Planejamento, criação, desenvolvimento e configuração de sistemas empresariais em Excel"
     }
   },
   "cursos": {
